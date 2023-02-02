@@ -1,0 +1,9 @@
+Create a Vehicle class with two instance attributes:
+
+.color, which stores the name of the car's color as a string
+
+..mileage, which stores the number of miles on
+
+the car as an integer Then instantiate two Vehicle objects-a black car with 50,000 miles and a purple car with 80,000
+
+miles and print out their colors and mileage.
